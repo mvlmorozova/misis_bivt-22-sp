@@ -18,8 +18,8 @@ Hello, John!
 Необходимо реализовать игру "наименьшее общее кратное (НОК)". Суть игры в следующем: пользователю показывается три случайных числа, например, 5 7 15. Пользователь должен вычислить и ввести наименьшее общее кратное этих чисел.
 Вывод должен получиться следующий:
 brain-scm
-
-Welcome to the Brain Games!
+<p>
+Welcome to the Brain Games! </p>p
 May I have your name? Sam
 Hello, Sam!
 Find the smallest common multiple of given numbers.
